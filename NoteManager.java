@@ -23,7 +23,7 @@ public class NoteManager {
     // Main method for demonstration purposes
     public static void main(String[] args) {
         NoteManager manager = new NoteManager();
-        manager.addNote("its working! and is here  ");
+        manager.addNote("First Collaborator Did A Release");
         manager.addNote("Second note");
         manager.displayNotes();
     }
